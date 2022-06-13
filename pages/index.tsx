@@ -1,9 +1,6 @@
-import Head from 'next/head'
-
 export default function Home() {
   return (
     <>
-      <Head></Head>
       <main>
         <div className="w-full h-screen flex justify-center items-center bg-black">
           <div className="text-center mt-8">
