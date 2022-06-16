@@ -18,7 +18,7 @@ export function AppHeader() {
       <meta name="theme-color" content="#000000" />
       <meta
         name="description"
-        content="Nueva ley de deporte adaptado inclusivo y paraliímpico. Para que el deporte sea un derecho que nos incluya a todos. "
+        content="Nueva ley de deporte adaptado inclusivo y paralímpico. Para que el deporte sea un derecho que nos incluya a todos. "
       />
 
       <title>La Mayor Minoría</title>
