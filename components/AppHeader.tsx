@@ -18,9 +18,8 @@ export function AppHeader() {
       <meta name="theme-color" content="#000000" />
       <meta
         name="description"
-        content="Sacá lo mejor de vos. Crecé como jugador y como persona con los mejores entrenadores de Salta."
+        content="Nueva ley de deporte adaptado inclusivo y paraliímpico. Para que el deporte sea un derecho que nos incluya a todos. "
       />
-      <link rel="apple-touch-icon" href="logo192.png" />
 
       <title>La Mayor Minoría</title>
     </Head>
