@@ -140,7 +140,11 @@ export default function Home() {
         </div>
         <div className="bg-primary py-8">
           <h4 className="text-white text-2xl text-center w-10/12 md:w-6/12 lg:w-4/12 mx-auto">
-            Seguinos y ayudanos con tu difusión a hacer realidad esta ley
+            Para nosotros, el deporte es una necesidad. <br />
+            Ayudanos a que sea un derecho.
+          </h4>
+          <h4 className="text-white text-3xl text-center w-10/12 md:w-6/12 lg:w-4/12 mx-auto pt-6">
+            Seguinos y ayudanos con tu difusión
           </h4>
           <div className="w-full text-center mt-8">
             <a href="https://instagram.com/lamayorminoria">
